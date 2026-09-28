@@ -1,13 +1,13 @@
 {
-  "name": "WioCinema",
+  "name": "CastielCinema",
   "version": "1.0.0",
   "scrapers": [
     {
-      "id": "wiocinema-clipbox",
-      "name": "WioCinema • ClipBox",
+      "id": "castielcinema-clipbox",
+      "name": "CastielCinema • ClipBox",
       "description": "Global ClipBox movie and series provider (VixSrc direct TMDB route).",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
@@ -15,7 +15,7 @@
       "filename": "providers/wiocinema-clipbox.js",
       "enabled": true,
       "hasSettings": false,
-      "logo": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
+      "logo": "https://raw.githubusercontent.com/castiel430/Nuvio-Addons/main/assets/logo.png",
       "contentLanguage": [
         "en"
       ],
@@ -27,11 +27,11 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "wiocinema-cinestream",
-      "name": "WioCinema • CineStream",
+      "id": "castielcinema-cinestream",
+      "name": "CastielCinema • CineStream",
       "description": "Global multi-source movie and series provider (Vidup, Hexa, VidFast, Vidcore, Xpass).",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
@@ -52,11 +52,11 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "wiocinema-mapple",
-      "name": "WioCinema • Mapple",
+      "id": "castielcinema-mapple",
+      "name": "CastielCinema • Mapple",
       "description": "Global Mapple movie and series provider (VixSrc, VidSrc, Videasy).",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
@@ -64,7 +64,7 @@
       "filename": "providers/wiocinema-mapple.js",
       "enabled": true,
       "hasSettings": false,
-      "logo": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
+      "logo": "https://raw.githubusercontent.com/castiel430/Nuvio-Addons/main/assets/logo.png",
       "contentLanguage": [
         "en"
       ],
@@ -77,11 +77,11 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "wiocinema-bingebang",
-      "name": "WioCinema • BingeBang",
+      "id": "castielcinema-bingebang",
+      "name": "CastielCinema • BingeBang",
       "description": "Global BingeBang movie and series provider.",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
@@ -102,11 +102,11 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "wiocinema-cinecat",
-      "name": "WioCinema • CineCat",
+      "id": "castielcinema-cinecat",
+      "name": "CastielCinema • CineCat",
       "description": "Global CineCat movie and series provider.",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
@@ -127,11 +127,11 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "wiocinema-flixnetwork",
-      "name": "WioCinema • FlixNetwork",
+      "id": "castielcinema-flixnetwork",
+      "name": "CastielCinema • FlixNetwork",
       "description": "Global FlixNetwork movie and series provider.",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
@@ -152,11 +152,11 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "wiocinema-watch2movies",
-      "name": "WioCinema • Watch2Movies",
+      "id": "castielcinema-watch2movies",
+      "name": "CastielCinema • Watch2Movies",
       "description": "Global Watch2Movies provider.",
       "version": "1.0.0",
-      "author": "Wiojelt",
+      "author": "castiel430",
       "supportedTypes": [
         "movie",
         "tv"
