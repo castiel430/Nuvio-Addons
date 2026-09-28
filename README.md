@@ -1,19 +1,6 @@
-# Nuvio Addons
+# Nuvio Addons (Castiel)
 
-## WioSinema
-
-```text
-https://raw.githubusercontent.com/Wiojelt/Nuvio-Addons/main/manifest.json
-```
-
-## WioCinema
+## CastielSinema
 
 ```text
-https://raw.githubusercontent.com/Wiojelt/Nuvio-Addons/main/wiocinema/manifest.json
-```
-
-## WioSpor
-
-```text
-https://raw.githubusercontent.com/Wiojelt/Nuvio-Addons/live/wiospor/manifest.json
-```
+[https://raw.githubusercontent.com/castiel430/Nuvio-Addons/main/manifest.json](https://raw.githubusercontent.com/castiel430/Nuvio-Addons/main/manifest.json)
